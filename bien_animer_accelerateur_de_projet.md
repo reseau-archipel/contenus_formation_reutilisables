@@ -1,3 +1,16 @@
+<!--
+
+---
+title: Bien animer un accélérateur de projet
+description: L'accélérateur de projet est une méthode très puissante, mais sa puissance dépend beaucoup de la façon dont le format est animé. voici quelques trucs et astuces pour bien animer ce format.
+image_url: 
+licence: CC-BY-SA
+author: DLA37
+---
+
+-->
+
+
 # Bien animer un accélérateur de projet
 
 L'accélérateur de projet est une méthode très puissante, mais sa puissance dépend beaucoup de la façon dont le format est animé. voici quelques trucs et astuces pour bien animer ce format.
