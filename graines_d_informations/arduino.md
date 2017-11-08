@@ -6,7 +6,7 @@ Arduino est un circuit imprimé en matériel libre (dont les plans de la carte e
 
 ## Chiffres et faits marquants
 
-- La société Toulousaine SnootLab vendant du matériel Arduino emploi 5 salariés
+- La société Toulousaine SnootLab vendant du matériel Arduino emploi 5 salariés, un exemple de société qui réalise des bénéfices tout en travaillant avec du libre.
 
 ## Sources:
 
