@@ -10,7 +10,7 @@ Ce n’est pas un hasard si Microsoft, qui a été battue à plate couture par L
 
 ## Chiffres clés et faits marquants
 
-Les communautés du libre sont extrêmement productives 
+Les communautés du libre sont extrêmement productives et sur certains secteurs dominent les entreprises commercialles classiques:
 
 - Linux est aujourd’hui utilisé pour faire fonctionner 97% des 500 plus gros supercalculateurs de la planête contre 1,2% pour Windows
 - Android, une version modifiée de Linux est le système d’exploitation le plus utilisé sur les smartphones (déja plus de 50% pour les smartphones et 40% sur l’ensemble smartphones/tablettes)
