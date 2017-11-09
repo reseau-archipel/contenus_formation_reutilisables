@@ -2,7 +2,9 @@
 
 ## Histoire
 
-Dans les communautés du libre, le travail se fait de manière très ouverte et permet à des participants de se positionner librement sur les taches qu’ils souhaitent. Cette organisation a permis à des projets très complexes de voir le jour (voir: Linux et Wikipédia: 2 succès majeurs de travail en réseau)
+Linux, Wikipédia, WordPress, Firefox … longtemps marginaux, les projets rassemblant des volontaires qui travaillent en collaboration à distance sont de plus en plus courants et concurrencent grandes entreprises et institutions pourtant richement dotés en moyens humains et financiers.
+
+Dans les communautés du libre, le travail se fait de manière très ouverte et permet à des participants de se positionner librement sur les taches qu’ils souhaitent. Cette organisation a permis à des projets très complexes de voir le jour.
 
 Si le modèle du libre était vu comme utopique il y a encore quelque années, aujourd’hui même les grosses entreprises le prenne très au sérieux.
 
