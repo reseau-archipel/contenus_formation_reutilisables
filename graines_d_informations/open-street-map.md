@@ -37,3 +37,5 @@ Via Simon Sarazin http://slides.com/simonsarazin/63-millions#/
 Foursquare ditched Google Maps back in 2012 for the OpenStreetMap-powered MapBox, Craigslist uses it for apartment searches, while the mighty Apple has turned to OpenStreetMap data too, even though it took a while for the attribution to be added.
 http://thenextweb.com/insider/2014/02/28/openstreetmap/#!xSVWk
 http://www.lagazettedescommunes.com/293759/donnees-geographiques-ils-se-fiancerent-et-eurent-beaucoup-dadresses-libres/
+
+voir les modifications d'open street map en direct: http://live.openstreetmap.fr/
