@@ -24,3 +24,5 @@ Dans une économie où la seule certitude est l’incertitude, l’unique source
 - http://www.alexa.com/siteinfo/wikipedia.org
 - https://medium.com/matter/the-36-people-who-run-wikipedia-21ecca70bcca
 
+Ecouter (voir) les modifications de wikipédia en direct et de manière interactive: http://listen.hatnote.com/
+
